@@ -2,6 +2,7 @@
 # 101-safe_function.py
 # Ogunlade Stephen O.
 
+
 import sys
 
 def safe_function(fct, *args):
