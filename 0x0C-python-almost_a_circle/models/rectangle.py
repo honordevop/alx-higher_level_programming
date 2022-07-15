@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# rectangle.py
+# Ogunla Stephen O
 """
 This module implements a Rectangle object
 """
