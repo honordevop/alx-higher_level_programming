@@ -1,13 +1,6 @@
 #!/usr/bin/python3
-"""
-This module implements a base class for Geometry objects,
-with attribute validator functions
-
-Raises:
-    Exception: area is not implemented
-    TypeError: [attribute] must be an integer
-    ValueError: [attribute] ,must be greater than 0
-"""
+# 7-base_geometry.py
+"""Defines a base geometry class BaseGeometry."""
 
 
 class BaseGeometry:
