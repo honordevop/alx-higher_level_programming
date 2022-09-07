@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-"""
-This module implements a custom list object
-"""
+# 1-my_list.py
+"""Defines an inherited list class MyList."""
 
 
 class MyList(list):
